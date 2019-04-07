@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shruti Hiray
-subtitle: Student | Cryptocurrency Enthusiast
+subtitle: Student | Blockchain Enthusiast
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal homepage
 author: Shruti Hiray
@@ -45,7 +45,7 @@ url: "https://shrutihiray.github.io" # the base hostname & protocol for your sit
 # Social settings
 facebook_url: "https://www.facebook.com/shrutihiray"
 github_url: "https://github.com/shrutihiray"
-googleplus_url: "https://plus.google.com/u/0/+ShrutiHiray15"
+googleplus_url: 
 instagram_url:
 linkedin_url: "https://www.linkedin.com/in/shruti-hiray-109007a7/"
 pinterest_url:
